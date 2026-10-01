@@ -38,4 +38,4 @@ Oshoma Erumiseli (ORCID 0009-0004-3813-4650), Bila Hassan Ali
 (0009-0002-9109-7778), Dauda Garba (0000-0002-5833-5511). Program-level
 credit; per-contribution credit follows the protocol.
 
-Code MIT. Documentation CC BY 4.0.
+Code MIT. Documentation CC BY 4.0. Third-party MassBank records under `contributions/` keep their own CC BY licence; see the NOTICE.md beside them.
