@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use UPSTREAM, please cite it as below."
+title: "UPSTREAM: an evidence-led program of contribution to open-source metabolomics software"
+type: software
+authors:
+  - family-names: "Erumiseli"
+    given-names: "Oshoma"
+    orcid: "https://orcid.org/0009-0004-3813-4650"
+    affiliation: "Independent Researcher, Corvallis, Oregon, USA"
+  - family-names: "Ali"
+    given-names: "Bila Hassan"
+    orcid: "https://orcid.org/0009-0002-9109-7778"
+    affiliation: "Department of Pharmaceutical and Medicinal Chemistry, Veritas University Abuja, Abuja, Nigeria"
+  - family-names: "Garba"
+    given-names: "Dauda"
+    orcid: "https://orcid.org/0000-0002-5833-5511"
+    affiliation: "Department of Pharmaceutical and Medicinal Chemistry, University of Abuja, Abuja, Nigeria"
+version: "0.1.0"
+date-released: "2026-10-01"
+license: MIT
+repository-code: "https://github.com/Oshoma123/Upstream"
+keywords:
+  - metabolomics
+  - mass spectrometry
+  - open source
+  - research software
+  - MassBank
+  - matchms
+  - GNPS
+  - Bioconductor
+  - MetaboLights
+abstract: >
+  UPSTREAM is a program of contribution to the open-source software and
+  open data the metabolomics community depends on: matchms, the
+  RforMassSpectrometry Bioconductor packages, MassBank-data, the GNPS2
+  documentation and workflow repositories, and metabolights-utils. It
+  provides a ledger that counts merged contributions directly from GitHub,
+  a written protocol every contribution follows (evidence first, duplicate
+  check, upstream's own validation run locally, disclosed AI assistance),
+  and a backlog of evidence-backed candidates. At this version no
+  contribution has yet been filed: the ledger reads zero, and the first
+  contribution (three MassBank records using CAS numbers as compound names)
+  is verified and drafted but not submitted.
