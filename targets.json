@@ -1,0 +1,23 @@
+{
+  "_comment": "Repositories in scope. 'pr_base' is the branch upstream maintainers want PRs against, verified from recent merged PRs; 'process' records how each project takes contributions. Verified 2026-10-01.",
+  "targets": [
+    {"repo": "matchms/matchms", "community": "matchms", "pr_base": "master",
+     "process": "CONTRIBUTING.md; changelog entry expected"},
+    {"repo": "rformassspectrometry/Spectra", "community": "RforMassSpectrometry", "pr_base": "main",
+     "process": "Bioconductor package; issues first for behaviour changes"},
+    {"repo": "rformassspectrometry/MsBackendMassbank", "community": "RforMassSpectrometry", "pr_base": "main",
+     "process": "Bioconductor package"},
+    {"repo": "rformassspectrometry/MsCoreUtils", "community": "RforMassSpectrometry", "pr_base": "main",
+     "process": "Bioconductor package"},
+    {"repo": "rformassspectrometry/MetaboCoreUtils", "community": "RforMassSpectrometry", "pr_base": "main",
+     "process": "Bioconductor package"},
+    {"repo": "MassBank/MassBank-data", "community": "MassBank", "pr_base": "dev",
+     "process": "PRs to dev; validate-records.yml runs the MassBank Validator on every PR; merged by maintainer"},
+    {"repo": "Wang-Bioinformatics-Lab/GNPS2_Documentation", "community": "GNPS2", "pr_base": "main",
+     "process": "documentation site"},
+    {"repo": "Wang-Bioinformatics-Lab/GNPS2_Workflows", "community": "GNPS2", "pr_base": "main",
+     "process": "workflow definitions"},
+    {"repo": "EBI-Metabolights/metabolights-utils", "community": "MetaboLights", "pr_base": "main",
+     "process": "README only; low activity (last push 2026-06)"}
+  ]
+}

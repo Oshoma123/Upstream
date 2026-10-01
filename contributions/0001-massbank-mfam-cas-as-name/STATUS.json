@@ -1,0 +1,5 @@
+{"id": "0001", "target": "MassBank/MassBank-data", "base": "dev",
+ "kind": "data correction (3 records)", "status": "ready-awaiting-author-review",
+ "duplicate_check": "2026-10-01: no issue/PR mentions MC05_000155/000015/000066 or mFam CAS names",
+ "verified_against": "dev @ 2026-10-01 (still broken there)",
+ "co_authored_by": [], "filed_url": null, "outcome": null}

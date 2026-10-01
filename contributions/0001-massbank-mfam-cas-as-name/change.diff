@@ -1,0 +1,66 @@
+diff -u original/MSBNK-mFam-MC05_000015.txt patched/MSBNK-mFam-MC05_000015.txt
+--- original/MSBNK-mFam-MC05_000015.txt	2026-10-01 15:19:48.120693895 +0000
++++ patched/MSBNK-mFam-MC05_000015.txt	2026-10-01 15:20:31.498846143 +0000
+@@ -1,15 +1,16 @@
+ ACCESSION: MSBNK-mFam-MC05_000015
+-RECORD_TITLE: 1032-65-1; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
++RECORD_TITLE: 2'-Deoxycytidine 5'-monophosphate; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
+ DATE: 2023.02.07
+ AUTHORS: Gerd Balcke, IPB Halle, Germany
+ LICENSE: CC BY
+ COMMENT: CONFIDENCE Pure standard
+-CH$NAME: 1032-65-1
++CH$NAME: 2'-Deoxycytidine 5'-monophosphate
+ CH$COMPOUND_CLASS: Pyrimidine deoxyribonucleotides
+ CH$FORMULA: C9H14N3O7P
+ CH$EXACT_MASS: 307.0569
+ CH$SMILES: C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O
+ CH$IUPAC: InChI=1S/C9H14N3O7P/c10-7-1-2-12(9(14)11-7)8-3-5(13)6(19-8)4-18-20(15,16)17/h1-2,5-6,8,13H,3-4H2,(H2,10,11,14)(H2,15,16,17)
++CH$LINK: CAS 1032-65-1
+ CH$LINK: INCHIKEY NCMVOABPESMRCP-UHFFFAOYSA-N
+ CH$LINK: ChemOnt CHEMONTID:0002148; Organic compounds; Nucleosides, nucleotides, and analogues; Pyrimidine nucleotides; Pyrimidine deoxyribonucleotides
+ AC$INSTRUMENT: TripleToF 5600; Sciex
+diff -u original/MSBNK-mFam-MC05_000066.txt patched/MSBNK-mFam-MC05_000066.txt
+--- original/MSBNK-mFam-MC05_000066.txt	2026-10-01 15:19:48.316423721 +0000
++++ patched/MSBNK-mFam-MC05_000066.txt	2026-10-01 15:20:31.499853188 +0000
+@@ -1,15 +1,16 @@
+ ACCESSION: MSBNK-mFam-MC05_000066
+-RECORD_TITLE: 10366-91-3; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
++RECORD_TITLE: 2-(Glucopyranosyloxy)benzoic acid; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
+ DATE: 2023.02.07
+ AUTHORS: Gerd Balcke, IPB Halle, Germany
+ LICENSE: CC BY
+ COMMENT: CONFIDENCE Pure standard
+-CH$NAME: 10366-91-3
++CH$NAME: 2-(Glucopyranosyloxy)benzoic acid
+ CH$COMPOUND_CLASS: Carbohydrates and carbohydrate conjugates
+ CH$FORMULA: C13H16O8
+ CH$EXACT_MASS: 300.0845
+ CH$SMILES: C1=CC=C(C(=C1)C(=O)O)OC2C(C(C(C(O2)CO)O)O)O
+ CH$IUPAC: InChI=1S/C13H16O8/c14-5-8-9(15)10(16)11(17)13(21-8)20-7-4-2-1-3-6(7)12(18)19/h1-4,8-11,13-17H,5H2,(H,18,19)
++CH$LINK: CAS 10366-91-3
+ CH$LINK: INCHIKEY TZPBMNKOLMSJPF-UHFFFAOYSA-N
+ CH$LINK: ChemOnt CHEMONTID:0000011; Organic compounds; Organic oxygen compounds; Organooxygen compounds; Carbohydrates and carbohydrate conjugates
+ AC$INSTRUMENT: TripleToF 5600; Sciex
+diff -u original/MSBNK-mFam-MC05_000155.txt patched/MSBNK-mFam-MC05_000155.txt
+--- original/MSBNK-mFam-MC05_000155.txt	2026-10-01 15:19:47.975032468 +0000
++++ patched/MSBNK-mFam-MC05_000155.txt	2026-10-01 15:20:31.497776306 +0000
+@@ -1,15 +1,16 @@
+ ACCESSION: MSBNK-mFam-MC05_000155
+-RECORD_TITLE: 1912-33-0; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
++RECORD_TITLE: Methyl indole-3-acetate; LC-ESI-QTOF; MS2; CE: -10, -35, -60V;  [M-H]-
+ DATE: 2023.02.07
+ AUTHORS: Gerd Balcke, IPB Halle, Germany
+ LICENSE: CC BY
+ COMMENT: CONFIDENCE Pure standard
+-CH$NAME: 1912-33-0
++CH$NAME: Methyl indole-3-acetate
+ CH$COMPOUND_CLASS: Indolyl carboxylic acids and derivatives
+ CH$FORMULA: C11H11NO2
+ CH$EXACT_MASS: 189.0790
+ CH$SMILES: COC(=O)CC1=CNC2=CC=CC=C21
+ CH$IUPAC: InChI=1S/C11H11NO2/c1-14-11(13)6-8-7-12-10-5-3-2-4-9(8)10/h2-5,7,12H,6H2,1H3
++CH$LINK: CAS 1912-33-0
+ CH$LINK: INCHIKEY KTHADMDGDNYQRX-UHFFFAOYSA-N
+ CH$LINK: ChemOnt CHEMONTID:0001290; Organic compounds; Organoheterocyclic compounds; Indoles and derivatives; Indolyl carboxylic acids and derivatives
+ AC$INSTRUMENT: TripleToF 5600; Sciex
